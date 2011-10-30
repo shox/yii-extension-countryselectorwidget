@@ -230,6 +230,7 @@ class CountrySelectorWidget extends CWidget
 		'NO' => "Norway",
 		'OM' => "Oman",
 		'PK' => "Pakistan",
+		'PS' => "Palestine",
 		'PW' => "Palau",
 		'PA' => "Panama",
 		'PG' => "Papua New Guinea",
